@@ -127,18 +127,6 @@ body .container .card {
     transition: 0.5s;
 }
 
-body .container .card:nth-child(1) .box .content a {
-    background: #2196f3;
-}
-
-body .container .card:nth-child(2) .box .content a {
-    background: #2196f3;
-}
-
-body .container .card:nth-child(3) .box .content a {
-    background: #2196f3;
-}
-
 body .container .card .box {
     position: absolute;
     top: 20px;
@@ -201,7 +189,7 @@ body .container .card .box .content a {
     position: relative;
     display: inline-block;
     padding: 8px 20px;
-    background: black;
+    background: #2196f3;
     border-radius: 5px;
     text-decoration: none;
     color: white;
